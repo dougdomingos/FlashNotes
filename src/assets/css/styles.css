@@ -6,4 +6,24 @@
   body {
     @apply bg-zinc-900 text-zinc-100;
   }
+
+  h1 {
+    @apply text-2xl;
+  }
+  
+  h2 {
+    @apply text-xl;
+  }
+  
+  h3 {
+    @apply text-lg;
+  }
+
+  a {
+    @apply text-blue-400 hover:text-blue-300;
+  }
+
+  button {
+    @apply bg-blue-600 hover:bg-blue-500 px-3.5 py-2 rounded-md;
+  }
 }
