@@ -1,3 +1,3 @@
-# WXT + React
+# FlashNotes
 
-This template should help get you started developing with React in WXT.
+A browser extension that allows users to write quick notes while browsing.
